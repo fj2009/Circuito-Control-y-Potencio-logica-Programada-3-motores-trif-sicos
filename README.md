@@ -1,6 +1,6 @@
 # Circuito-Control-y-Potencio-logica-Programada-3-motores-trifasicos
 
-![Uploading Captura de pantalla 2026-11-09 101348.png…]()
+<img width="541" height="580" alt="Captura de pantalla 2026-11-09 101348" src="https://github.com/user-attachments/assets/c4668bc5-1b3b-4484-99f4-ea2e152475c6" />
 
 ## Descripción del proyecto
 
